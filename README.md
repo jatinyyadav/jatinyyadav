@@ -16,7 +16,7 @@ I am a Computer Science undergraduate student passionate about the intersection 
 - Qiskit, Python for scientific computing, and the basics of quantum circuits.
 
 #### 📫 How to reach me:
-- **LinkedIn:** (https://www.linkedin.com/in/jatin-yadav-758464289/)
+- **LinkedIn:** https://www.linkedin.com/in/jatin-yadav-758464289/
 - **Email:** jatinx900@gmail.com
 
 ---
